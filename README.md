@@ -150,3 +150,9 @@ Adds scanner link (copy mode) to IITC
 ## License
 
 [MIT](/license)
+
+---
+
+<h4 align="center">
+    Made by <a href="https://ingress.com" target="_blank">Ingress</a> Players
+</h4>
