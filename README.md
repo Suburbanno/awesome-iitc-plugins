@@ -53,9 +53,6 @@ this plugin allows you to parse the name, image, and coordinates for all Ingress
 - **[Barcodes](https://github.com/3ch01c/iitc-plugins/raw/master/barcodes.user.js)** by [3ch01c](https://github.com/3ch01c)  
 This plugin converts the display of barcode names into something more easily remembered.
 
-- **[Barcodes](https://github.com/3ch01c/iitc-plugins/raw/master/barcodes.user.js)** by [3ch01c](https://github.com/3ch01c)  
-This plugin converts the display of barcode names into something more easily remembered.
-
 - **[ITC Portal Multi Export](https://github.com/modkin/Ingress-IITC-Multi-Export/blob/master/multi_export.user.js)** by [modkin](https://github.com/modkin)  
 This is a plugin to export portals to different formats.
 
