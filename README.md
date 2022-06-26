@@ -1,8 +1,13 @@
 #  Awesome iitc plugins made by community 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/github/license/suburbanno/awesome-iitc-plugins.svg)](/LICENSE)[![GitHub contributors](https://img.shields.io/github/contributors/suburbanno/awesome-iitc-plugins.svg)](https://github.com/felipefialho/awesome-made-by-brazilians/graphs/contributors)
+
+> Note: On [June 13th](https://github.com/IITC-CE/Community-plugins/commit/3fe6cd78441ce68afd0b85810ebebdf615da2379), this repository had its list imported to a [repository in the main organization](https://github.com/IITC-CE/Community-plugins), so any contribution should be made [there](https://github.com/IITC-CE/Community-plugins/blob/master/CONTRIBUTING.md), thanks to [@modos189](https://github.com/modos189) for paying attention to this project.
+---
+
 > A collection of amazing plugins made by community
 
 > OBS: To use the Plugins it is necessary to have installed the [IITC-Core](https://github.com/IITC-CE/ingress-intel-total-conversion) or [IITC Button](https://github.com/IITC-CE/IITC-Button)
+
 ### IITC Plugins
 
 - **[Player Inventory](https://le-jeu.github.io/iitc-plugins/player-inventory.user.js)** by [le-jeu](https://github.com/le-jeu)  
